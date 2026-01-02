@@ -1,0 +1,423 @@
+﻿Product Name,,CATEGORY,,USAGE,,TARGET USER,,PRICE RANGE
+facewash,,Skincare,,Cleansing,,Unisex,,600-1500
+face cleanser,,Skincare,,Daily care,,Women,,700-200
+toner,,Skincare,,Skin Balance,,Women,,1000-2300
+serum,,Skincare,,Skin repair,,Unisex,,2000-3000
+moisturizer,,Skincare,,Hydration,,Unisex,,800-1200
+sunscreen spf 50,,Skincare,,UV protection,,Unisex,,300-7000
+night cream,,Skincare,,Repair,,Unisex,,500-4000
+eye cream,,Skincare,,Anti-aging,,Unisex,,500-2000
+face mask,,Skincare,,Glow,,Unisex,,2000-7000
+exfoliator,,Skincare,,Dead skin removal,,Unisex,,200-1100
+foundation,,Makeup,,Makeup,,Women,,1000-3000
+bb cream,,Makeup,,Light Makeup,,Unisex,,800-1500
+concealar,,Makeup,,Coverage,,Women,,500-2000
+lipstick,,Makeup,,Makeup,,Women,,300-600
+lipgloss,,Makeup,,Shine,,Women,,200-500
+mascra,,Makeup,,Eye Makeup,,Women,,150-400
+eyeliner,,Makeup,,Eye Makeup,,Women,,200-500
+blush,,Makeup,,Glow,,Women,,200-400
+shampoo,,Haircare,,Haircleaning,,Unisex,,800-1800
+conditioner,,Haircare,,Hairsmooth,,Unisex,,1000-2000
+hair oil,,Haircare,,Nourishment,,Unisex,,1100-2500
+hair serum,,Haircare,,Hairsmooth,,Unisex,,1200-3000
+hair mask,,Haircare,,Nourishment,,Unisex,,1500-3000
+perfume,,Fragrance,,Luxury,,Unisex,,3000-5000
+body spray,,Fragrance,,Freshness,,Unisex,,2000-3000
+deodorant,,Hygiene,,Odor control,,Unisex,,2500-5000
+makeup brush set,,Tools,,Application,,Women,,1000-1500
+face roller,,Tools,,Skin message,,Unisex,,150-850
+primer,,Makeup,,Makeup,,Women,,600-1200
+under eyemarker,,Makeup,,Makeup,,Women,,150-400
+fixer,,Makeup,,Shine,,Unisex,,1500-2000
+hair brush,,Haircare,,Hairsmooth,,Unisex,,500-1000
+face cream,,Skincare,,Nourishment,,Unisex,,200-500
+eye shadow,,Makeup,,Makeup,,Women,,2500-3000
+nail polish,,Makeup,,Makeup,,Women,,250-500
+contour,,Makeup,,Application,,Unisex,,500-800
+highlighter,,Makeup,,Makeup,,Women,,1200-1800
+powder,,Makeup,,Makeup,,Women,,500-1000
+lotion,,Skincare,,Nourishment,,Unisex,,1000-1500
+lip pencil,,Makeup,,Application,,Women,,150-300
+facial spray,,Makeup,,Hydration,,Unisex,,800-1200
+mirror,,Tools,,Application,,Unisex,,1500-2000
+sponge,,Makeup,,Balancing,,Unisex,,100-150
+brow pencil,,Makeup,,Balancing,,Women,,150-200
+lash extension,,Makeup,,Enhancement,,Women,,350-500
+gels,,Skincare,,Hydration,,Unisex,,800-1000
+beard care,,Skincare,,Nourishment,,Men,,1200-2000
+water gel,,Skincare,,Smoothing,,Unisex,,1300-1500
+trimmer,,Tools,,Maintaining,,Men,,2000-3000
+soap,,Hygiene,,Cleaning,,Unisex,,50-100
+body wash,,Hygiene,,Cleaning,,Unisex,,1000-1800
+Product Name,,CATEGORY,,STAFF,,TARGET USER,,PRICE RANGE
+t-shirt,,Casual wear,,Cotton,,Unisex,,1000-1200
+polo shirt,,Casual wear,,Cotton,,Unisex,,1200-1500
+jeans,,Casual wear,,Denim,,Unisex,,1000-1500
+shorts,,Casual wear,,Cotton,,Men,,1000-1500
+dress shirt,,Formal wear,,Cotton,,Unisex,,1300-1500
+trousers,,Formal wear,,Wool,,Unisex,,1000-1500
+suit,,Formal wear,,Wool blend,,Men,,20000-50000
+blazer,,Formal wear,,Wool,,Men,,10000-12000
+kurta,,Traditional,,Cotton,,Unisex,,4000-5000
+shalwar kameez,,Traditional,,Embroided Fabric,,Unisex,,7000-10000
+saree,,Traditional,,Sil blend,,Women,,17000-20000
+lehenga,,Traditional,,Silk blend,,Women,,20000-25000
+abaya,,Traditional,,Polyester,,Women,,4000-6000
+sweater,,Winter wear,,Wool,,Unisex,,2500-3000
+hoodie,,Winter wear,,Fleece,,Unisex,,2000-3000
+jacket,,Winter wear,,Nylon,,Unisex,,3000-3500
+tracksuit,,Sportswear,,Polyester,,Unisex,,3000-5000
+sports t-shirt,,Sportswear,,Polyester,,Unisex,,1500-2000
+yoga pants,,Sportswear,,Polyester,,Unisex,,1000-2000
+pajamas,,Sleepwear,,Cotton,,Unisex,,1000-1500
+night suit,,Sleepwear,,Cotton,,Unisex,,2000-4000
+vest,,Innerwear,,Cotton,,Men,,500-800
+kids t-shirt,,Kidswear,,Cotton,,Child,,500-1000
+school uniform,,Kidswear,,Cotton,,Child,,2000-3000
+gown,,Party wear,,Velvet,,Women,,10000-20000
+sherwani,,Party wear,,Velvet,,Men,,50000-100000
+scarf,,Accessories,,Wool,,Women,,400-600
+belt,,Accessories,,Leather,,Unisex,,300-500
+cap ,,Accessories,,Wool,,Unisex,,250-500
+leggings,,Kidswear,,Fleece Lined,,Child,,300-500
+skirts,,Casual wear,,Cotton Blend,,Women,,7000-10000
+plazzo pants,,Casual wear,,Cotton,,Women,,2000-2500
+maxi,,Party wear,,Polyester,,Women,,12000-20000
+robe,,Sleepwear,,Cotton,,Unisex,,5000-8000
+swimsuit,,Swim wear,,Spandex,,Unisex,,6000-10000
+dungarees,,Casual wear,,Cotton,,Unisex,,7000-12000
+waistcoat,,Party wear,,Wool,,Men,,8000-15000
+capris,,Casual wear,,Linen,,Women,,1000-1500
+romper,,Casual wear,,Cotton,,Child,,4000-8000
+jumpsuit,,Casual wear,,Cotton,,Child,,5000-10000
+raincoat,,Outerwear,,Polyester,,Unisex,,4000-6000
+gloves,,Winter wear,,Wool,,Unisex,,350-400
+socks,,Winter wear,,Wool,,Unisex,,250-300
+hat,,Accessories,,Cotton,,Unisex,,200-250
+mittens,,Accessories,,Wool,,Child,,100-150
+tie,,Accessories,,Silk,,Unisex,,150-200
+bow tie,,Accessories,,Silk,,Men,,150-200
+Product Name,,CATEGORY,,MATERIAL,,TARGET USER,,
+sneaker,,Casual wear,,Leather,,Unisex,,3000-5000
+running shoes,,Sports wear,,Rubber,,Unisex,,4000-7000
+formal shoes,,Dress shoes,,Leather,,Men,,10000-12000
+sandals,,Casual wear,,"Leather,Rubber",,Unisex,,4000-5000
+flip-flops,,Casual wear,,Rubber,,Unisex,,1500-2000
+boots,,Outdoor shoes,,"Leather,Rubber",,Unisex,,6000-8000
+loafers,,Formal wear,,Leather,,Men,,10000-15000
+high heels,,Formal wear,,Leather,,Women,,5000-7000
+sports trainer,,Sports wear,,Rubber,,Unisex,,70000-80000
+slippers,,Casual wear,,Wool,,Unisex,,2000-2500
+espadrillers,,Casual wear,,Rubber,,Unisex,,3000-3500
+oxford shoes,,Dress shoes,,Leather,,Men,,6000-9000
+derby shoes,,Dress shoes,,Leather,,Men,,8000-12000
+chelsea boots,,Outdoor shoes,,Leather,,Unisex,,9000-13000
+ankle boots,,Outdoor shoes,,Leather,,Unisex,,9000-15000
+moccasins,,Casual wear,,Leather,,Unisex,,7000-8000
+wedges,,Casual wear,,Leather,,Women,,4000-8000
+ballet flats,,Casual wear,,Leather,,Women,,3000-5000
+trail running shoes,,Sports wear,,Rubber,,Unisex,,4500-6000
+cross trainers,,Sports wear,,Rubber,,Unisex,,6000-7000
+hiking boots,,Sports wear,,Leather,,Unisex,,7000-8000
+combat boots,,Outdoor shoes,,Leather,,Unisex,,9000-12000
+platform shoes,,Casual wear,,Leather,,Women,,12000-15000
+rain boots,,Outdoor shoes,,Rubber,,unisex,,6000-7000
+canvas shoes,,Casual wear,,"Canvas,rubber",,Unisex,,6000-8000
+slip on slippers,,Casual wear,,"Leather,Rubber",,Unisex,,2500-5000
+court shoes,,Formal wear,,Leather ,,Women,,3000-6000
+high top sneakers,,Sports wear,,"Leather,Rubber",,Unisex,,5000-6000
+basketball shoes,,Sports wear,,Rubber,,Unisex,,5000-8000
+skate shoes,,Casual shoes,,"Leather,Rubber",,Unisex,,15000-20000
+gladiator sandals,,Casual shoes,,Leather,,Women,,10000-12000
+rubber slippers,,Home shoes,,Rubber,,Unisex,,1000-1500
+work boots,,Outdoor shoes,,"Leather,Rubber",,Unisex,,2500-3500
+trail runners,,Sports shoes,,Rubber,,Unisex,,4000-5000
+winter boots,,Casual wear,,Leather,,Unisex,,2500-3000
+sock sneakers,,Sports shoes,,Rubber,,Unisex,,4500-5000
+crocks,,Casual wear,,Rubber,,Unisex,,2000-2500
+cleats,,Sports wear,,"Leather,Rubber",,Unisex,,3000-3500
+snow boots,,Casual shoes,,Leather,,Unisex,,6000-8000
+russian boots,,Casual  shoes,,Leather,,Unisex,,10000-120000
+galoshes,,Formal wear,,Rubber,,Unisex,,8000-12000
+calf boots,,Formal wear,,"Leather,Rubber",,Unisex,,80000-12000
+slide sandals,,Casual wear,,Rubber,,Unisex,,6000-8000
+clogs,,Casual wear,,"Leather,Rubber",,Unisex,,4000-4500
+cone heels,,Formal wear,,"Leather,Rubber",,Women,,10000-15000
+lita,,Casual shoes,,Leather,,Women,,6000-8000
+climbing shoes,,Casual shoes,,"Leather,rubber",,Unisex,,5000-8000
+monk straps,,Formal wear,,"Leather,Rubber",,Men,,15000-18000
+beach shoes,,Casual shoes,,Rubber,,Unisex,,9000-12000
+Product Name,,CATEGORY,,USAGE,,TYPE,,
+lego classic set,,Building Toys,,Creative play,,Indoor,,3000-3500
+barbie doll,,Dolls,,Role play,,Indoor,,3500-5000
+hot wheel car,,Vehicles,,Racing,,Indoor,,3000-5000
+play doh set,,Modeling/Clay,,Creative play,,Indoor,,3500-6000
+nerf blaster,,Foam toys,,Playbattle,,Outdoor,,2000-3500
+rubik's cube,,Puzzle toys,,Brain,,Indoor,,4500-5000
+fisher price piano,,Musical toys,,Learning,,Indoor,,6000-8000
+inflatable pool,,outdoor toys,,Summer water play,,Outdoor,,10000-12000
+remote control car,,Vehicles,,Racing,,Outdoor,,10000-15000
+teddy bear,,Soft toys,,Cuddling,,Indoor,,5000-8000
+paw petrol figure,,Action figures,,Role play,,Indoor,,6000-10000
+transformers figure,,Action figures,,Role play,,Indoor,,5000-8000
+crayola crayons,,Art supplies,,Coloring,,Indoor,,3500-6000
+toy train set,,Vehicles,,Track play,,Indoor,,6000-12000
+kitchen playset,,Pretend play,,Role play,,Indoor,,3500-6000
+play food set,,Pretend play,,Role play,,Indoor,,2500-5000
+baby doll stroller,,Dolls,,Role play,,Indoor,,8000-10000
+puzzle mat,,Puzzle toys,,Learning,,Indoor,,3000-3500
+magic kit,,Educational toys,,Creativity,,Indoor,,6000-8000
+dinosaur figure,,Action figures,,Role play,,Indoor,,7000-8000
+yo yo,,Skill toys,,Dexterity,,Outdoor,,5000-6000
+jenga,,Block games,,Strategy,,Indoor,,3500-4500
+soccer ball toy,,Sports toys,,Activity,,Outdoor,,4000-7000
+basketball hoop,,Sports toys,,Activity,,Outdoor,,9000-12000
+kite,,Outdoor toys,,Wind play,,Outdoor,,2000-2500
+rocking horse,,Ride-on toys,,Balance play,,Indoor,,12000-15000
+water gun,,Foam toys,,Summer play,,Outdoor,,1000-1500
+stuffed animal set,,Soft toys,,Cuddling,,Indoor,,3500-5000
+chess set,,Board games,,Strategy,,Indoor,,5000-7000
+checkers game,,Board games,,Strategy,,Indoor,,6000-8000
+action figure set,,Action figures,,Role play,,Indoor,,4500-6000
+doll house,,Dolls playset,,Role play,,Indoor,,12000-16000
+play kitchen,,Pretend play,,Role play,,Indoor,,9000-13000
+musical drum set,,Musical toys,,Learning,,Indoor,,8000-12000
+educational tablet,,Learning toys,,Digital/Learning,,Indoor,,15000-18000
+toy tool set,,Pretend play,,Role play,,Indoor,,6000-7000
+trampoline,,Outdoor toys,,Exercise,,Outdoor,,7000-8000
+baby walker,,Ride-on toys,,Mobility,,Indoor,,8000-10000
+foam blocks,,Building Toys,,Creativity,,Indoor,,4000-5000
+toy helicopter,,Vehicles,,Remote play,,Outdoor,,3000-5000
+stuffed dinosaur,,Soft toys,,Imagination,,Indoor,,4500-6500
+mini drum set,,Musical toys,,Music/Fun,,Indoor,,3500-6000
+balance bike,,Ride-on toys,,Learning,,Outdoor,,8000-9000
+doll accessories set,,Dolls playset,,Role play,,Indoor,,6500-10000
+baby rattles,,Baby toys,,Sensory,,Indoor,,5500-7000
+wooden blocks,,Building Toys,,Motor skills,,Indoor,,3000-35000
+science kit,,Educational toys,,Learning,,Indoor,,4000-5000
+toy police car,,Vehicles,,Role play,,Indoor,,5000-6000
+foam sword,,Action/Foam,,Role play,,Indoor,,4500-6500
+Product Name,,CATEGORY,,USAGE,,TARGET USER,,PRICE RANGE
+necklace,,Neck jewellery,,Formal wear,,Women,,1000-1500
+chain,,Neck jewellery,,Casual wear,,Unisex,,500-600
+choker,,Neck jewellery,,Part wear,,Women,,1500-2000
+pendent,,Neck jewellery,,Gift,,Women,,2000-2500
+earings,,Ear jewellery,,Part wear,,Women,,2000-3000
+stud earings,,Ear jewellery,,Daily wear,,Unisex,,1000-2000
+hoops,,Ear jewellery,,Casual wear,,Unisex,,1500-2500
+jhumkas,,Traditional,,Wedding,,Women,,3000-3500
+nose rings,,Facial jewellery,,Daily wear,,Women,,4000-4500
+nose pin,,Facial jewellery,,Festival,,Women,,3000-3500
+bangles,,Hand jewellery,,Festival,,Women,,4000-5000
+bracelets,,Hand jewellery,,Casual wear,,Unisex,,2000-2500
+kada,,Hand jewellery,,Traditional,,Women,,5000-8000
+rings,,Fingure jewellery,,Daily wear,,Unisex,,500-1000
+toe rings,,Foot jewellery,,Traditional,,Women,,600-800
+anklet,,Foot jewellery,,Traditional,,Women,,900-1200
+brooch,,Accessory jewellery,,Formal wear,,Unisex,,1600-2000
+hair pins,,Hair jewellery,,Party/Bridal,,Women,,300-350
+maang tikka,,Bridal jewellery,,Wedding,,Women,,5000-8000
+armlet,,Arrm jewellery,,Wedding,,Women,,4000-5000
+cufflinks,,Men's jewellery,,Formal wear,,Men,,6000-8000
+tie pin,,Men's jewellery,,Office/Formal,,Men,,3500-4000
+locket,,Neck jewellery,,Gift,,Women,,6000-7000
+charm bracelet,,Hand jewellery,,Casual/Fashion,,Women,,800-1000
+diamond jewellery,,Luxury jewellery,,Engagement/Party,,Women,,243000-250000
+gold jewellery,,Precious jewellery,,Wedding/Investment,,Women,,109900-116200
+artificial jewellery,,Fashion jewellery,,Casual/Party,,Women,,8000-12000
+pearl jewellery,,Classic jewellery,,Formal/Office,,Women,,13000-15000
+silver jewellery,,Precious jewellery,,Daily/Traditional,,Women,,35000-40000
+beaded jewellery,,Handmade jewellery,,Casual/Fashion,,Women,,4000-5000
+minimal jewellery,,Modern Jewellery,,Daily/Office,,Women,,2000-4000
+watches,,Accessory jewellery,,Casual wear,,Unisex,,7500-12000
+Product Name,,CATEGORY,,USAGE/AREA,,TYPE,,PRICE RANGE
+sofa,,Furniture,,Living room,,Wood,,40000-50000
+armchair,,Furniture,,Living room,,Wood,,25000-30000
+coffee table,,Furniture,,Living room,,Glass,,20000-25000
+tv unit,,Furniture,,Living room,,Wood,,35000-40000
+bookshelf,,Furniture,,Living room,,Wood,,15000-20000
+bed ,,Furniture,,Bedroom,,Wood,,80000-90000
+mattress,,Furniture,,Bedroom,,Foam,,10000-15000
+wardrobe,,Furniture,,Bedroom,,Wood,,60000-65000
+dressing table,,Furniture,,Bedroom,,Wood,,25000-30000
+bedside table,,Furniture,,Bedroom,,Wood,,15000-20000
+dining table,,Furniture,,Dining area,,Glass,,40000-45000
+dining chair,,Furniture,,Dining area,,Wood,,30000-35000
+kitchen cabinet,,Furniture,,Kitchen,,Wood,,45000-50000
+shoe rack,,Furniture,,Entry way,,Wood,,25000-30000
+study table,,Furniture,,Study room,,Wood,,15000-18000
+office chair,,Furniture,,Office ,,Fabric/Plastic,,9000-15000
+computer desk,,Furniture,,Office/Study,,Wood,,10000-15000
+books cabinet,,Furniture,,Study  ,,Wood,,12000-22000
+recliner chair,,Furniture,,Living room,,Wood/Plastic,,9000-12000
+bar stool,,Furniture,,Kitchen,,Wood,,7000-11000
+pouf/ottoman,,Furniture,,Living room,,Fabric/Wood,,16000-20000
+bench,,Furniture,,Indoor/Outdoor,,Wood,,12000-18000
+sidetable,,Furniture,,Bedroom,,Wood,,11000-16000
+mirror,,Home decor,,Bedroom/Bathroom,,Glass,,16000-24000
+wall clock,,Home decor,,Living/Bedroom,,Plastic/Glass,,6000-8000
+wall art/frames,,Home decor,,Home decoration,,Wood,,4000-5000
+curtains,,Home furnishing,,Windows,,Cotton/Polyester,,5000-8000
+blinds,,Home furnishing,,Windows,,Fabric/Cottton,,6000-7000
+carpets/rugs,,Home furnishing,,Floor,,Wool,,3500-4500
+cushions,,Home furnishing,,Sofa/Bed,,Fabric/Foam,,2500-3500
+bedsheets,,Home furnishing,,Bedroom,,Cotton,,3000-3500
+pillow covers,,Home furnishing,,Bedroom,,Cotton,,1000-1500
+mattress protector,,Home furnishing,,Bedroom,,Polyester,,1200-1500
+lamps,,Home decor,,Living /Bedroom,,Glass,,1800-2000
+ceiling lights,,Lighting,,All rooms,,Glass/Metal,,800-1600
+floor lamps,,Lighting,,Living room,,Glass,,1500-2500
+study lamp,,Lighting,,Study,,Glass,,1200-2500
+fan,,Home appliance,,All rooms,,Steel/Plastic/Metal,,3000-5000
+heater,,Home appliance,,Winter use,,Metal/Plastic/Glass,,5000-9000
+air cooler,,Home appliance,,Summer use,,Plastic/Metal/Wood,,30000-40000
+storage box,,Storage,,Multi-purpose,,Plastic,,1200-2500
+laundry basket,,Storage,,Bathroom/Laundry,,Plastic,,1500-2000
+kitchen shelves,,Storage,,Kitchen,,Wood,,10000-15000
+dustbin,,Home Utility,,Kitchen/Bathroom,,Plastic,,1000-1500
+iron stand,,Home Utility,,Laundry,,Metal/Plastic/Wood,,2500-3000
+doormat,,Home Utility,,Entrance,,Plastic/Fabric,,1500-2500
+room divider,,Furniture,,Living area,,Wood,,3500-5000
+shoe cabinet,,Furniture,,Entryway,,Wood,,10000-3000
+cookware set,,Kitchenware,,Cooking,,Stainless steel,,3000-10000
+dinner set,,Kitchenware,,Dining   ,,Ceramic/Glass,,5000-25000
+Product Name,,CATEGORY,,USAGE,,PACKAGING,,PRICE RANGE
+rice,,Staples,,Daily cooking,,Bag/Sack,,250-550
+wheat flour,,Staples,,Baking/Cooking,,Bag/Packet,,200-300
+sugar,,Staples,,Sweetening/Cooking,,Packet/Bag,,170-210
+salt,,Staples,,Cooking,,Packet/Box,,100-250
+lentils/dals,,Pulses,,Cooking,,Bag/Packet,,150-400
+cooking oil,,Oils and Fat,,Cooking/Frying,,Bottles,,450-550
+ghee,,Oils and Fat,,Cooking/Baking,,Jar/Tin,,500-1200
+butter,,Dairy products,,Cooking/Spread,,Packet/Box,,320-660
+milk,,Dairy products,,Dinking/Cooking,,Bottles,,220-350
+yogurt/curd,,Dairy products,,Daily Consumption,,Cup/Container,,100-250
+cheese,,Dairy products,,Cooking/Sandwiches,,Block/Pack/Slice,,500-700
+eggs,,Protein,,Cooking/Baking,,Carton,,170-400
+chicken,,Meat,,Cooking,,Pack,,600-1100
+beef,,Meat,,Cooking,,Pack,,900-1850
+fish,,Seafood,,Cooking,,Pack/Frozen,,600-1000
+fruits,,Fresh produce,,Raw/Juices/Snacks,,Loose/Pack/Box,,100-200
+vegetables,,Fresh produce,,Cooking/Salads,,Loose/Pack ,,100-280
+frozen vegetables,,Frozen food,,Cooking/Storage,,Pack/Bag,,700-1600
+frozen meat,,Frozen food,,Cooking,,Pack/Frozen,,1200-1600
+canned food,,Packaged food,,Long-term Storage,,Can/Tin,,200-400
+snacks  ,,Packaged food,,Eating/Parties,,Packet/Box,,100-600
+biscuits/cookies,,Packaged food,,Snacks/Tea,,Pack/Box,,100-400
+instant noodles,,Packaged food,,Quick Meal,,Pack/Cup,,30-60
+breakfast cereals,,Packaged food,,Breakfast/Snacks,,Box/Packet,,1000-2000
+spices,,Seasoning,,Cooking,,Jar/Packet,,110-150
+sauses/condiments,,Seasoning,,Cooking/Topping,,Bottle/Jar,,100-400
+tea,,Beverages,,Drinking/Refreshment,,Box/Packet,,100-450
+coffee,,Beverages,,Drinking,,Pack/Jar,,2000-3000
+soft drinks,,Beverages,,Refreshment,,Bottle/Can,,70-100
+juice/nectar,,Beverages,,Drinking/Breakfast,,Bottle/Carton,,45-80
+honey,,Natural sweetner,,Cooking/Spread,,Jar/Bottle,,950-4000
+jams/jelly,,Condiments,,Spreading/Breakfast,,Jar,,150-300
+pickles,,Condiments,,Cooking/Side Dish,,Jar/Bottle,,550-650
+pasta/macaroni,,Grains and Pasta,,Cooking,,Packet/Box,,120-350
+flour tortilla,,Grains and Pasta,,Cooking,,Pack,,300-900
+bread/loaf,,Bakery products,,Breakfast/Snacks,,Pack/Bag,,200-270
+cake,,Bakery products,,Dessert/Snacks,,Pack/Box,,2000-3500
+cookies,,Bakery products,,Snacks/Tea,,Packet/Box,,50-100
+chocolates,,Sweets,,Snacks/Gifting,,Pack/Box,,200-400
+ice creams,,Frozen food,,Dessert/Snacks,,Cone/Pack/Tub,,800-900
+nuts/dry fruits,,Snacks/health,,Snacks/Healthy,,Packet/Box,,2600-3300
+olive oil,,Oils and Fat,,Cooking/Dressing,,Bottle,,1000-2000
+vinegar,,Condiments,,Cooking/Salad ,,Bottle,,400-800
+mayonnaise,,Condiments,,Sandwich/Salad,,Bottle/Jar,,700-850
+soy sause,,Condiments,,Cooking,,Bottle,,700-800
+snacks chips,,Packaged food,,Eating/Parties,,Packet,,100-200
+ready to eat meals,,Packaged food,,Quick Meal,,Packet/Cup,,1000-2000
+baby food,,Health/Kids,,Infant Nutrition,,Jar/Pouch,,2000-4000
+organic products,,Health/Specialty,,Healthy Eating,,Packet/Bottle/Jar,,1700-3000
+sugar free products,,Health/Specialty,,Healthy Eating,,Packet/Bottle/Jar,,300-1200
+gluten free product,,Health/Specialty,,Healthy Eating,,Packet/Box,,700-1400
+Product Name,,CATEGORY,,USAGE,,MATERIAL,,PRICE RANGE
+smartphone,,Moobile device,,Communication,,Metal/Glass/Plastic,,40000-80000
+tablet,,Mobile device,,Media/Work,,Metal/Glass/Plastic,,14000-45000
+laptop,,Computing device,,Work/Study,,Metal/Plastic,,80000-100000
+desktop pc,,Computing device,,Work/Gaming,,Metal/Plastic,,110000-170000
+smartwatch,,Wearablegadget,,Fitness/Notification,,Metal/Silicon/Glass,,60000-90000
+ear/headphones,,Audio Gadget,,Music/Calls,,Plastic/Metal/Ruber,,15000-25000
+bluetooth speakers,,Audio Gadget,,Music/Events,,Plastic/Metal,,3000-4000
+power bank,,Power Gadget,,Charging Devices,,Plastic/Lithium,,2700-5000
+usb flash drive,,Storage Gadget,,Data transfer,,Plastic/Metal,,700-2000
+external hard drive,,Storage Gadget,,Data Backup,,Metal/Plastic,,3500-7000
+camera,,Imaging Gadget,,Photography,,Metal/Plastic,,800-1300
+action camera,,Imaging Gadget,,Sports Filming,,Plastic/Metal,,5000-6000
+drone  ,,Flying Gadget,,Photography,,Plastic/Metal,,8000-10000
+smart home hub,,Smart device,,Home Automation,,Plastic/Metal,,4500-9000
+fittness trackers,,Wearablegadget,,Health monitoring,,Plastic/Silicon,,1200-4000
+e reader,,Mobile device,,Reading/Education,,Plastic/Glass,,50000-55000
+gaming console,,Gaming Gadget,,Entertainment,,Plastic/Metal,,800-40000
+vr headset,,Gaming Gadget,,Virtual reality,,Plastic/Glass/Foam,,2000-7000
+projector,,Display Gadget,,Presentation/Media,,Plastic/Metal,,7000-10000
+router,,Networking,,Internet connectivity,,Plastic/Metal,,30000-40000
+smart light,,Smart device,,Home Automation,,Plastic/Metal/Glass,,2000-3000
+keyboard,,Computer Accessory,,Typing/Work,,Plastic/Metal,,1000-2500
+mouse,,Computer Accessory,,Navigation/Work,,Plastic/Metal,,2000-18000
+monitor,,Display Gadget,,Work/Gaming,,Plastic/Glass,,500-2000
+web camera,,Imaging Gadget,,Video call,,Plastic/Metal,,2000-50000
+drone accessory,,Drone Accessory,,Replacement,,Plastic/Metal,,1500-33000
+vr controller,,Gaming Accessory,,Virtualrealitycontrol,,Plastic/Metal,,1000-2500
+smart thermostat,,Smart device,,Climate,,Plastic/Metal,,20000-25000
+portable speaker,,Audio Gadget,,Music,,Plastic/Metal,,2000-5000
+wireless charger,,Power Gadget,,Charging Devices,,Plastic/Metal,,500-1000
+smart glasses,,Wearablegadget,,AR/Notification,,Plastic/Glass,,2000-7000
+Product Name,,CATEGORY,,USAGE,,MATERIAL,,PRICE RANGE
+notebook,,Writing Supplies,,Note-Taking/Study,,Paper/Cardboard,,60-120
+notepad,,Writing Supplies,,Quick Notes/Memo,,Paper/Cardboard,,250-350
+diary,,Writing Supplies,,Planing/Scheduling,,Paper ,,400-450
+pen ,,Writing Tools,,Writing/Drawing,,Plastic/Metal,,40-60
+pencil,,Writing Tools,,Writing/Drawing,,Wood/ Graphite,,15-30
+mechanical pencil,,Writing Tools,,Technical Drawing,,Plastic/Metal,,130-250
+marker,,Writing Tools,,Highlight/Labeling,,Plastic/Ink,,80-150
+highlighter,,Writing Tools,,Emphasis/Study,,Plastic/Ink,,60-100
+eraser,,Correction Tools,,Mistake Correction,,Rubber/Plastic,,30-60
+sharpener,,Correction Tools,,Pencil Sharpening,,Plastic/Metal,,35-60
+ruler,,Measuring Tools,,Measurement,,Plastic/Metal/Wood,,100-150
+geometry set,,Measuring Tools,,Drawing/Math,,Plastic/Metal,,380-1400
+staples,,Office Supplies,,Paper binding,,Metal,,40-100
+paper clips,,Office Supplies,,Organizing paper,,Metal/Plastic,,100-250
+binder/folder,,Organizing Tools,,File Storage,,Plastic/Cardboard,,400-700
+file organizer,,Organizing Tools,,Document storage,,Plastic/Cardboard,,250-1500
+envelop,,Mailing Supplies,,Sending Letter,,Paper,,50-100
+glue stick,,Adhesives,,Sticking papers,,Plastic/Adhesive,,40-300
+liquid glue,,Adhesives,,Sticking/Craftproject,,Plastic/Adhesive,,50-250
+scissors,,Cutting Tools,,Paper/Craft cutting,,Metal/Plastic,,60-1000
+cutter/utility knife,,Cutting Tools,,Paper/Craft cutting,,Metal/Plastic,,70-300
+tape  ,,Adhesives,,Sticking/Packaging,,Plastic/Adhesive,,120-250
+masking tape,,Adhesives,,Painting/Craft,,Paper/Adhesive,,120-200
+paints,,Art supplies,,Drawing/Craft,,Plastic tubes/Acrylic,,400-1000
+brushes,,Art supplies,,Painting/Craft,,Wood/Plastic/Bristles,,450-1700
+crayons,,Art supplies,,Drawing/Coloring,,Wax/Pigment,,100-300
+color pencils,,Art supplies,,Drawing/Coloring,,Wood/Pigment,,200-600
+sketchbook,,Writing/Art,,Drawing/Sketching,,Paper/Cardboard,,200-400
+post it notes,,Writing Supplies,,Reminder/Notes,,Paper/Adhesive,,150-200
+whiteboard  ,,Office Supplies,,Presentation ,,Plastic/Metal,,1500-3000
+whiteboard marker,,Writing Tools,,Whiteboard writing,,Plastic/Ink,,100-150
+chalk,,Writing Tools,,Blackboard writing,,Calcium/Talc,,60-100
+blackboard,,Teaching Tools,,Classroom writing,,Wood/Slate,,3500-5000
+eraser for board,,Correction Tools,,Blackboard Cleaning,,Felt/Rubber,,150-300
+stamp/ink pad,,Office Tools,,Marking/Official use,,Rubber/Ink,,300-1500
+calculator,,Electronics,,Calculation,,Plastic/Metal,,1600-2500
+compass,,Drawing Tools,,Geometry/Drawing,,Metal/Plastic,,150-400
+protractor,,Measuring Tools,,Geometry /Angles,,Plastic/Metal,,700-900
+tape dispenser,,Office Tools,,Tape handling,,Plastic/Metal,,1000-2000
+hole punch,,Office Tools,,Paper punching,,Metal/Plastic,,400-900
+desk organizer,,Organizing Tools,,Stationary storage,,Plastic/Wood,,500-1000
+rubber bands,,Office Supplies,,Paper/Item holding,,Rubber,,130-800
+glue gun,,Adhesives,,Craft/Hot Glue,,Plastic/Metal,,4000-9000
+sketch pens,,Art supplies,,Drawing/Coloring,,Plastic/Ink,,1200-4000
+watercolor set,,Art supplies,,Painting/Art,,Plastic/Paint,,2000-7000
+acrylic paint set,,Art supplies,,Painting/Art,,Plastic/Paint,,1800-2500
+oil paint set,,Art supplies,,Painting/Art,,Metal tubes/Paint,,1500-3000
+calligraphy set,,Writing Tools,,FancyWriting/Art,,Metal/Plastic,,2900-3500
+ink bottle,,Writing Tools,,Fountain Pen,,Glass/Ink,,200-400
+stapler,,Office Tools,,Binding paper,,Metal/Plastic,,300-600
+water bottle,,Drinkware,,Drinking,,Plastic/Glass,,300-3000
+samosy,,fried food,,snack,,packet,,50-70
+bag,,packing,,carrying ,,leather,,1000-4000
+cup,,drinking,,Drinking,,Glass/plastic,,500-1000
